@@ -1,0 +1,47 @@
+h1, h5 {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  /* position: relative; */
+}
+
+.box {
+  width: 80vw;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+ 
+}
+
+.box li {
+  list-style-type: none;
+  display: inline-block;
+  background-color: lightblue;
+  border: solid 3px lightblue;
+  padding: 2.5em;
+  margin: 20px;
+  border-radius: 50%;
+}
+
+.box li:last-child { 
+  background-color: blue;
+}
+
+button {
+  padding: 20px 40px;
+  margin: 20px auto;
+  border-radius: 20px;
+  background-color: lightblue;
+  border: solid 3px blue;
+}
+
+button:hover {
+  background-color: blue;
+  border: solid 3px lightblue;
+}
