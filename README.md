@@ -1,4 +1,5 @@
 # Lotto numbers
+https://pawel-w88.github.io/lotto-number-generator/
 [![Status overview badge](../../blob/badges/.github/badges/main/badge.svg)](#-results)
 
 
@@ -23,24 +24,3 @@ On clicking on the "Reset" button all numbers should be removed.
 > ⌛ Give it a minute. As long as you see the orange dot ![processing](https://raw.githubusercontent.com/DCI-EdTech/autograding-setup/main/assets/processing.svg) on top, CodeBuddy is still processing. Refresh this page to see it's current status.
 >
 > This is what CodeBuddy found when running your code. It is to show you what you have achieved and to give you hints on how to complete the exercise.
-
-
-### LuckyNumbers Component
-
-|                 Status                  | Check                                                                                    |
-| :-------------------------------------: | :--------------------------------------------------------------------------------------- |
-| ![Status](../../blob/badges/.github/badges/main/status0.svg) | 'Show me lucky numbers' button exists |
-| ![Status](../../blob/badges/.github/badges/main/status1.svg) | Clicking 'Show me lucky numbers' creates seven numbers from 1 to 49 |
-| ![Status](../../blob/badges/.github/badges/main/status2.svg) | Last number (super number) is always between 1 and 10 |
-| ![Status](../../blob/badges/.github/badges/main/status3.svg) | Every click on 'Show me lucky numbers' creates unique numbers |
-| ![Status](../../blob/badges/.github/badges/main/status4.svg) | 'reset' button exists |
-| ![Status](../../blob/badges/.github/badges/main/status5.svg) | 'reset' button removes lucky numbers |
-
-
-
-[🔬 Results Details](../../actions)
-[🐞 Tips on Debugging](https://github.com/DCI-EdTech/autograding-setup/wiki/How-to-work-with-CodeBuddy)
-[📢 Report Problem](https://docs.google.com/forms/d/e/1FAIpQLSfS8wPh6bCMTLF2wmjiE5_UhPiOEnubEwwPLN_M8zTCjx5qbg/viewform?usp=pp_url&entry.652569746=SPA-components-state-lotto)
-
-
-[//]: # (autograding info end)
