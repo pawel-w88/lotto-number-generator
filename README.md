@@ -18,9 +18,3 @@ In addition one number between 1 and 10 should be generated and displayed. Every
 On clicking on the "Reset" button all numbers should be removed.
 
 ![Example with no numbers displayed](example-no-numbers.png)
-
-[//]: # (autograding info start)
-# <img src="https://github.com/DCI-EdTech/autograding-setup/raw/main/assets/bot-large.svg" alt="" data-canonical-src="https://github.com/DCI-EdTech/autograding-setup/raw/main/assets/bot-large.svg" height="31" /> Results
-> ⌛ Give it a minute. As long as you see the orange dot ![processing](https://raw.githubusercontent.com/DCI-EdTech/autograding-setup/main/assets/processing.svg) on top, CodeBuddy is still processing. Refresh this page to see it's current status.
->
-> This is what CodeBuddy found when running your code. It is to show you what you have achieved and to give you hints on how to complete the exercise.
