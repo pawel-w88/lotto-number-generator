@@ -1,10 +1,7 @@
-https://pawel-w88.github.io/lotto-number-generator/
+
 
 # Lotto numbers
 [![Status overview badge](../../blob/badges/.github/badges/main/badge.svg)](#-results)
-
-
-Let's create a `LuckyNumbers` component in the provided file `src/components/LuckyNumbers/index.js`
 
 ![example](example.gif)
 
