@@ -1,5 +1,6 @@
-# Lotto numbers
 https://pawel-w88.github.io/lotto-number-generator/
+
+# Lotto numbers
 [![Status overview badge](../../blob/badges/.github/badges/main/badge.svg)](#-results)
 
 
