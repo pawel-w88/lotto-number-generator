@@ -1,7 +1,4 @@
-
-
 # Lotto numbers
-[![Status overview badge](../../blob/badges/.github/badges/main/badge.svg)](#-results)
 
 ![example](example.gif)
 
