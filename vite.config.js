@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/lotto-number-generator',
   plugins: [react()],
+  base: '/lotto-number-generator/',
 })

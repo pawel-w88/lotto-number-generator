@@ -2,6 +2,7 @@
   "name": "lotto-number-generator",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://pawel-w88.github.io/lotto-number-generator/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
